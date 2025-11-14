@@ -92,7 +92,7 @@ padding-bottom: 140px;
 
 /* hero */
 #hero{
-    background-image: url(images/photo-1698342381340-7e79b3e817e6.avif);
+    background-image: url(photo-1698342381340-7e79b3e817e6.avif);
     background-position: center;
     background-size: cover;
 }
@@ -158,7 +158,7 @@ padding-bottom: 140px;
 
 /* counter */
 #counter{
-    background-image: url(../images/contact.avif);
+    background-image: url(contact.avif);
     background-position: center;
     background-size: cover;
 }
@@ -222,7 +222,7 @@ padding-bottom: 140px;
     content:"";
     width:100%;
     height:70%;
-    background:url(../images/contact.avif);
+    background:url(contact.avif);
     background-position:cover;
     background-size:cover;
     position:absolute;
@@ -261,4 +261,5 @@ footer .line{
     margin-top: 12px;
     margin-bottom: 24px;
 }
+
 
